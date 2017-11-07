@@ -1,12 +1,10 @@
 .organization-thumbnail img {
   width: 64px;
 }
-@media (max-width:767px) {
+
 .jumbotron {
 background: url(http://www.soest.hawaii.edu/pibhmc/cms/wp-content/uploads/2015/05/SaipanBathyImagery.jpg) center no-repeat;
- background-color:#f7f7f7;
-}
-
+background-color:;
 }
 
 dataset {
