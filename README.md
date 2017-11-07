@@ -9,7 +9,7 @@ Please note this is still a work in progress!
 ## Development
 Jekyll is a simple, static site generator for personal, project, or organization sites. Written in Ruby.
 
-Please see the [Architecture](https://github.com/timwis/jkan/wiki/Architecture) page in the wiki for info about JKAN.
+For more info about JKAN and Jekyll, please see the [Architecture](https://github.com/timwis/jkan/wiki/Architecture) page in the wiki.
 
 ## Installation
 See [Get Started](https://jkan.io/#get-started) on [jkan.io](https://jkan.io) for an installation wizard,
