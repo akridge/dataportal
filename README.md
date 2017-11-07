@@ -5,7 +5,7 @@ Please note this is still a work in progress!
 
 ## Preivew
 <p align="center">
-  <a href="https://akridge.github.io/dataportal/" target="_blank"><img src="https://www.soest.hawaii.edu/pibhmc/data/preview.jpg" /></a>
+  <a target="_blank" href="https://akridge.github.io/dataportal/"><img src="https://www.soest.hawaii.edu/pibhmc/data/preview.jpg" /></a>
 </p>
 
 ## Development
