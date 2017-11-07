@@ -6,6 +6,11 @@ JKAN is a proof-of-concept that allows a small, resource-strapped government age
 
 Please note this is still a work in progress! 
 
+## Preivew
+<p align="center">
+  <img src="https://www.soest.hawaii.edu/pibhmc/data/preview.jpg" />
+</p>
+
 ## Development
 Jekyll is a simple, static site generator for personal, project, or organization sites. Written in Ruby.
 
