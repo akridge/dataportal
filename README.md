@@ -1,5 +1,5 @@
 # Pacific Islands Benthic Habitat Mapping Center (PIBHMC) Data Portal
-A lightweight, backend-free open data portal, powered by Jekyll.
+A lightweight, backend-free open data portal, powered by Jekyll, and built from JKAN.
 
 JKAN is a proof-of-concept that allows a small, resource-strapped government agency to stand-up an open data portal by simply
 [clicking the fork button](https://help.github.com/articles/fork-a-repo/).
