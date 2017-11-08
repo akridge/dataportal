@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 'Rose Atoll: Bathymetry'
+title: 'Rose Atoll: Bathymetry 5m IKONOS'
 organization: Pacific Islands Benthic Habitat Mapping Center
 notes: 'Rose Atoll: Bathymetry'
 resources:
