@@ -1,10 +1,10 @@
 ---
 schema: default
-title: Rose Backscatter
+title: Rose Atoll Backscatter
 organization: Pacific Islands Benthic Habitat Mapping Center
-notes: 'Rose Backscatter'
+notes: 'Rose Atoll Backscatter'
 resources:
-  - name: Rose Backscatter Webpage
+  - name: Rose Atoll Backscatter Webpage
     url: >-
       http://www.soest.hawaii.edu/pibhmc/cms/data-by-location/american-samoa/rose-atoll/rose-atoll-backscatter/
     format: html
